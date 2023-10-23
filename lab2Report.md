@@ -44,3 +44,5 @@ Here, the handleRequest method is being used. The only argument is the URI url, 
 Screenshots
 ![Image](labtwo3.png)
 ![Image](labtwo4.png)
+![Image](labtwo5.png)
+what I learned: I learned to make a new server, and manipulate URLs to make servers do different things with different commands.
