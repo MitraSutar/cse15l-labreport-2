@@ -44,5 +44,8 @@ Here, the handleRequest method is being used. The only argument is the URI url, 
 Screenshots
 ![Image](labtwo3.png)
 ![Image](labtwo4.png)
+id_ed25519 is the private key. id_ed25519.pub is the public key.
 ![Image](labtwo5.png)
+This is how to access the public key location using ls from ieng6.
+![Image](labtwo6.png)
 what I learned: I learned to make a new server, and manipulate URLs to make servers do different things with different commands.
